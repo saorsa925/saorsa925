@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="220" />
+<img src="img/cat-computer.gif" align="right" width="220" />
 <ul>
   <li>💻 In a long-term and surprisingly stable relationship with bugs.</li>
   <li>☕ Powered by coffee, tea, and mysterious deadlines.</li>
