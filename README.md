@@ -25,7 +25,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-saorsa925-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saorsa925)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saorsa925gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saorsa925@gmail.com)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 ---
 
-### 📊 Evidence That I Occasionally Code
+### 📊 GitHub Stats:
 
 <p align="center">
   <img
@@ -80,9 +80,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="img/oz-yarimasu-eating.gif" width="237" />
-</p>
 
 ---
 
@@ -108,21 +105,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
----
-
-### 🐛 Debugging Philosophy
-
-```python
-try:
-    write_code()
-except Exception:
-    stare_at_screen()
-    drink_coffee()
-    search_the_internet()
-    try_again()
-```
-
----
 
 ### 🌐 Find Me Somewhere on the Internet
 
