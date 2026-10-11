@@ -31,11 +31,6 @@
 
 <br>
 
-<!-- Right-side cat meme -->
-<img align="right" src="./assets/cat.gif" width="220" />
-
-
-
 <br clear="right">
 
 ---
@@ -51,10 +46,14 @@
   </a>
 </p>
 
-
-
 <img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="220" />
-
+<ul>
+  <li>💻 In a long-term and surprisingly stable relationship with bugs.</li>
+  <li>☕ Powered by coffee, tea, and mysterious deadlines.</li>
+  <li>🐍 I know a bit of Python — mostly to make the computer work overtime for me.</li>
+  <li>⛏️ Sometimes I write Java, sometimes I mine.</li>
+  <li>🎧 Music makes debugging approximately 66% less painful.</li>
+</ul>
 
 
 <br clear="all" />
