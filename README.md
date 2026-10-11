@@ -20,6 +20,7 @@
 <p align="center">
   <code>☕ ENTJ-a</code>
   <code>🐱 Cat-powered</code>
+  <code>📍 Wuhan</code>
 </p>
 
 <div align="center">
