@@ -35,7 +35,7 @@
 
 ---
 
-> 👋 A curious coder exploring AI application development.
+> 👋 <b>A curious coder exploring AI application development.</b>
 
 <p align="right">
   <a href="https://github.com/saorsa925">
