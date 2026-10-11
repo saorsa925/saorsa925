@@ -1,18 +1,16 @@
 
 <div align="center">
 
-  <!-- First line -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=22&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saorsa."
+    align="center"
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saorsa.+I+write+code+sometimes."
     alt="Hi, I'm Saorsa"
   />
 
-  <br>
-
-  <!-- Second line -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=900&lines=I+write+code+sometimes.+%E2%80%83%E2%80%83Sometimes+the+code+writes+me."
-    alt="I write code sometimes. Sometimes the code writes me."
+    align="center"
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=Sometimes+the+code+writes+me."
+    alt="Sometimes the code writes me"
   />
 
 </div>
@@ -20,15 +18,14 @@
 
 
 <p align="center">
-  <code>🐱 Cat-powered</code>
   <code>☕ ENTJ-a</code>
-  <code>💻 Learning by breaking things</code>
+  <code>🐱 Cat-powered</code>
 </p>
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-saorsa925-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saorsa925)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saorsa925gmail.com)
 
 </div>
 
@@ -42,10 +39,13 @@ $ whoami
 Saorsa
 
 $ current_focus
-- Learning how to make code work on the first try.
-- Building things with Java, Python and Vue 3.
-- Maintaining a surprisingly stable relationship with bugs.
-
+<ul>
+  <li>💻 In a long-term and surprisingly stable relationship with bugs.</li>
+  <li>☕ Powered by coffee, tea, and mysterious deadlines.</li>
+  <li>🐍 I know a bit of Python — mostly to make the computer work overtime for me.</li>
+  <li>⛏️ Sometimes I write Java, sometimes I mine.</li>
+  <li>🎧 Music makes debugging approximately 66% less painful.</li>
+</ul>
 $ stack
 Java / Python / C# / Vue 3 / HTML / CSS
 
@@ -68,19 +68,11 @@ $ status
   </a>
 </p>
 
-Welcome to my little corner of GitHub.
 
-Most of the things here are powered by curiosity, questionable decisions, mysterious deadlines, and probably too much caffeine.
 
 <img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="220" />
 
-<ul>
-  <li>💻 In a long-term and surprisingly stable relationship with bugs.</li>
-  <li>☕ Powered by coffee, tea, and mysterious deadlines.</li>
-  <li>🐍 I know a bit of Python — mostly to make the computer work overtime for me.</li>
-  <li>⛏️ Sometimes I write Java, sometimes I mine.</li>
-  <li>🎧 Music makes debugging approximately 66% less painful.</li>
-</ul>
+
 
 <br clear="all" />
 
