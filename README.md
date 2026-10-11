@@ -1,28 +1,27 @@
-![Header](img/Header4.gif)
 
 <div align="center">
 
+  <!-- First line -->
   <img
-    align="center"
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saorsa.+I+write+code+sometimes."
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=22&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saorsa."
     alt="Hi, I'm Saorsa"
   />
 
+  <br>
+
+  <!-- Second line -->
   <img
-    align="center"
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=800&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=700&lines=Sometimes+the+code+writes+me."
-    alt="Sometimes the code writes me"
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&pause=1000&color=6B51F7&background=BC84FF00&center=true&vCenter=true&width=900&lines=I+write+code+sometimes.+%E2%80%83%E2%80%83Sometimes+the+code+writes+me."
+    alt="I write code sometimes. Sometimes the code writes me."
   />
 
 </div>
 
-<p align="center">
-  🐱 <strong>A curious coder, occasionally supervised by a cat.</strong>
-</p>
+
 
 <p align="center">
   <code>🐱 Cat-powered</code>
-  <code>☕ Caffeine-driven</code>
+  <code>☕ ENTJ-a</code>
   <code>💻 Learning by breaking things</code>
 </p>
 
