@@ -35,7 +35,7 @@
 
 ---
 
-> 🐱 A curious coder exploring AI application development.
+> 👋 A curious coder exploring AI application development.
 
 <p align="right">
   <a href="https://github.com/saorsa925">
@@ -96,33 +96,6 @@
 
 ---
 
-
-### 🌐 Find Me Somewhere on the Internet
-
-<p>
-  <a href="https://github.com/saorsa925">
-    <img
-      src="https://img.shields.io/badge/GitHub-saorsa925-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="YOUR_INSTAGRAM_URL">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>"If the code works, maybe don't touch it."</i>
